@@ -1,0 +1,14 @@
+Running Environment:
+Operating System: Linux mint 19.3
+
+1. Enter root directory:
+% cd OpenGL_RayTracer/
+
+2. Generate makefile:
+% cmake .
+
+3. Generate OpenGLRayTracer.out:
+% make
+
+4. run OpenGLRayTracer:
+% ./OpenGLRayTracer.out

@@ -1,0 +1,14 @@
+Running Environment:
+Operating System: Linux mint 19.3
+
+1. Enter root directory:
+% cd OpenGLMuseum/
+
+2. Generate makefile:
+% cmake .
+
+3. Generate OpenGLMuseum.out:
+% make
+
+4. run OpenGLMuseum:
+% ./OpenGLMuseum.out
